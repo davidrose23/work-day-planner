@@ -1,6 +1,8 @@
 # work-day-planner
 
-this is a calendar application that allows you to plan your day out hourly by usual business hours.
+this is a calendar application 
+https://davidrose23.github.io/work-day-planner/
+that allows you to plan your day out hourly by usual business hours.
 if you press the save button your plan for that time slot gets saved into local storage so your
 plans will be there even if you refrehs the page
 
